@@ -1,0 +1,10 @@
+{
+  "name": "quiz-multi-matieres",
+  "version": "1.0.0",
+  "description": "Site de quiz multi-matières en HTML/CSS/JS, déployable sur Vercel.",
+  "scripts": {
+    "start": "npx serve ."
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
